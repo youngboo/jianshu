@@ -13,7 +13,7 @@ const config = {
             name: 'jianshu'
         },
         port: 3000,
-        user: 'jiayi',
+        user: 'jianshu',
         psw: '123456',
         host: 'localhost',
         dbs: 'jianshu',
